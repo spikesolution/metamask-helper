@@ -8,7 +8,6 @@ pre-defined, per-network list.
 * feature to add networks to metamask, cf. chainlist.org
 * search by symbol
 * search by contract address
-* link to a price chart for each token
 * link to the information source for the token details (contract address)
 * "copy" link for the contract address
 * Tooltips
