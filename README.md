@@ -5,6 +5,10 @@ pre-defined, per-network list.
 
 ## TODO
 
-* Add more tokens
 * Add a link from contract address to token contract on explorer
+* Add a "copy" link for the contract address
 * Add feature to add networks to metamask, cf. chainlist.org
+* Add search by symbol
+* Add search by contract address
+* Add link to a price chart for each token
+* Add link to the information source for the token details (contract address)
