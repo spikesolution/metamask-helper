@@ -5,6 +5,7 @@ pre-defined, per-network list.
 
 ## TODO
 
+* description text for each token
 * feature to add networks to metamask, cf. chainlist.org
 * search by symbol
 * search by contract address
